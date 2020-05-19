@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "vue-demo-client-side-solution",
+    "id": "99dfe702-7c88-4a2d-b5fa-9a6c232888a1",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/vue-demo.sppkg"
+  }
+}
